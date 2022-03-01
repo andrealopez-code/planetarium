@@ -59,8 +59,8 @@ img {
       
       .container {
         max-width: 60%;
-        margin: 1em auto;
-        padding: 0px 1.4em 0.5em;
+        margin: 1em 1em auto;
+        padding: 0px 2.2em 0.3em;
         border: 1px solid #6c2ba1;
         border-radius: 10px;
         box-shadow: 0 0 15px rgb(213, 105, 255);      
@@ -70,9 +70,9 @@ img {
         float: left;
         top:  50px;
         left: 50px;
-        width: 100px;
-        height: 100px;
-        padding: 10px 15px 5px 5px;
+        width: 145px;
+        height: 130px;
+        padding: 5px 5px 5px 5px;
       }
       
  
